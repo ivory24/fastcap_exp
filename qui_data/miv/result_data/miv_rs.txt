@@ -1,0 +1,144 @@
+Running fastcap 2.0 (18Sep92)
+  Input: miv_c_t16.lst
+  Input surfaces:
+   GROUP1
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0 0 0)
+   GROUP2
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (-0.14 0.14 0)
+   GROUP3
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0 0.14 0)
+   GROUP4
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0.14 0.14 0)
+   GROUP5
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (-0.14 0 0)
+   GROUP6
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0.14 0 0)
+   GROUP7
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (-0.14 -0.14 0)
+   GROUP8
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0 -0.14 0)
+   GROUP9
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0.14 -0.14 0)
+   GROUP10
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 -0.14 0.4)
+   GROUP11
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0 0.4)
+   GROUP12
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0.14 0.4)
+   GROUP13
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 -0.14 -0.29)
+   GROUP14
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0 -0.29)
+   GROUP15
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0.14 -0.29)
+  Date: Sun Dec  1 10:45:40 2013
+  Host: linux123
+
+INPUT SUMMARY
+  Expansion order: 2
+  Number of partitioning levels: 7
+  Overall permittivity factor: 1
+  Total number of panels: 47652
+    Number of conductor panels: 47652
+    Number of dielectric interface panels: 0
+    Number of thin conductor on dielectric interface panels: 0
+  Number of conductors: 15
+Percentage of multiplies done by multipole: 101%
+
+ITERATION DATA
+Starting on column 1 (1%GROUP1)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+16 17 18 19 
+
+PARTIAL CAPACITANCE MATRIX, picofarads
+                     1          2          3          4          5          6          7          8          9         10         11         12         13         14         15 
+1%GROUP1   1      14.04    -0.5727     -2.411    -0.5679     -2.414     -2.412    -0.5769      -2.41    -0.5736    -0.2408     -0.493    -0.2395    -0.2413    -0.4925     -0.241
+1%GROUP2   2    -0.5727                                                                                                                                                          
+1%GROUP3   3     -2.411                                                                                                                                                          
+1%GROUP4   4    -0.5679                                                                                                                                                          
+1%GROUP5   5     -2.414                                                                                                                                                          
+1%GROUP6   6     -2.412                                                                                                                                                          
+1%GROUP7   7    -0.5769                                                                                                                                                          
+1%GROUP8   8      -2.41                                                                                                                                                          
+1%GROUP9   9    -0.5736                                                                                                                                                          
+1%GROUP10 10    -0.2408                                                                                                                                                          
+1%GROUP11 11     -0.493                                                                                                                                                          
+1%GROUP12 12    -0.2395                                                                                                                                                          
+1%GROUP13 13    -0.2413                                                                                                                                                          
+1%GROUP14 14    -0.4925                                                                                                                                                          
+1%GROUP15 15     -0.241                                                                                                                                                          

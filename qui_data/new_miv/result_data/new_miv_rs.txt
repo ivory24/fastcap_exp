@@ -1,0 +1,128 @@
+Running fastcap 2.0 (18Sep92)
+  Input: miv_c_t16.lst
+  Input surfaces:
+   GROUP1
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0 0 0)
+   GROUP2
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0.14 0 0)
+   GROUP3
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0.07 0.12124 0)
+   GROUP4
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (-0.07 0.12124 0)
+   GROUP5
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (-0.14 0 0)
+   GROUP6
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (-0.07 -0.12124 0)
+   GROUP7
+    miv_t16.qui, conductor
+      title: `<miv_t16.qui>'
+      outer permittivity: 1
+      number of panels: 4324
+      number of extra evaluation points: 0
+      translation: (0.07 -0.12124 0)
+   GROUP8
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 -0.14 0.4)
+   GROUP9
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0 0.4)
+   GROUP10
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0.14 0.4)
+   GROUP11
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 -0.14 -0.29)
+   GROUP12
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0 -0.29)
+   GROUP13
+    miv_c.qui, conductor
+      title: `<miv_c.qui>'
+      outer permittivity: 1
+      number of panels: 1456
+      number of extra evaluation points: 0
+      translation: (-0.115 0.14 -0.29)
+  Date: Sun Dec  1 10:15:51 2013
+  Host: linux123
+
+INPUT SUMMARY
+  Expansion order: 2
+  Number of partitioning levels: 7
+  Overall permittivity factor: 1
+  Total number of panels: 39004
+    Number of conductor panels: 39004
+    Number of dielectric interface panels: 0
+    Number of thin conductor on dielectric interface panels: 0
+  Number of conductors: 13
+Percentage of multiplies done by multipole: 99.3%
+
+ITERATION DATA
+Starting on column 1 (1%GROUP1)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+16 17 18 19 
+
+PARTIAL CAPACITANCE MATRIX, picofarads
+                     1          2          3          4          5          6          7          8          9         10         11         12         13 
+1%GROUP1   1      14.66     -2.109     -2.099     -2.112     -2.107     -2.108     -2.105     -0.229     -0.463    -0.2241    -0.2292    -0.4624    -0.2257
+1%GROUP2   2     -2.109                                                                                                                                    
+1%GROUP3   3     -2.099                                                                                                                                    
+1%GROUP4   4     -2.112                                                                                                                                    
+1%GROUP5   5     -2.107                                                                                                                                    
+1%GROUP6   6     -2.108                                                                                                                                    
+1%GROUP7   7     -2.105                                                                                                                                    
+1%GROUP8   8     -0.229                                                                                                                                    
+1%GROUP9   9     -0.463                                                                                                                                    
+1%GROUP10 10    -0.2241                                                                                                                                    
+1%GROUP11 11    -0.2292                                                                                                                                    
+1%GROUP12 12    -0.4624                                                                                                                                    
+1%GROUP13 13    -0.2257                                                                                                                                    

@@ -1,0 +1,16 @@
+#poly
+C miv_t16.qui 1.0 0 0 0
+C miv_t16.qui 1.0 -0.14 0.14 0 
+C miv_t16.qui 1.0 0 0.14 0
+C miv_t16.qui 1.0 0.14 0.14 0
+C miv_t16.qui 1.0 -0.14 0 0 
+C miv_t16.qui 1.0 0.14 0 0 
+C miv_t16.qui 1.0 -0.14 -0.14 0
+C miv_t16.qui 1.0 0 -0.14 0
+C miv_t16.qui 1.0 0.14 -0.14 0
+C miv_c.qui 1.0 -0.115 -0.14 0.4
+C miv_c.qui 1.0 -0.115 0 0.4
+C miv_c.qui 1.0 -0.115 0.14 0.4
+C miv_c.qui 1.0 -0.115 -0.14 -0.29
+C miv_c.qui 1.0 -0.115 0 -0.29
+C miv_c.qui 1.0 -0.115 0.14 -0.29

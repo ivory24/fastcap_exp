@@ -1,0 +1,688 @@
+Running fastcap 2.0 (18Sep92)
+  Input: new_via_first_ct16.lst
+  Input surfaces:
+   GROUP1
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (0 0 0)
+   GROUP2
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (-10 10 0)
+   GROUP3
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (0 10 0)
+   GROUP4
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (10 10 0)
+   GROUP5
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (-10 0 0)
+   GROUP6
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (10 0 0)
+   GROUP7
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (-10 -10 0)
+   GROUP8
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (0 -10 0)
+   GROUP9
+    new_via_first_t16.qui, conductor
+      title: `<new_via_first_t16.qui>'
+      outer permittivity: 1
+      number of panels: 18526
+      number of extra evaluation points: 0
+      translation: (10 -10 0)
+   GROUP10
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -6.05 50.3)
+   GROUP11
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -5.65 50.3)
+   GROUP12
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -5.25 50.3)
+   GROUP13
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -4.85 50.3)
+   GROUP14
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -4.45 50.3)
+   GROUP15
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -4.05 50.3)
+   GROUP16
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -3.65 50.3)
+   GROUP17
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -3.25 50.3)
+   GROUP18
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -2.85 50.3)
+   GROUP19
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -2.45 50.3)
+   GROUP20
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -2.05 50.3)
+   GROUP21
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -1.65 50.3)
+   GROUP22
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -1.25 50.3)
+   GROUP23
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -0.85 50.3)
+   GROUP24
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -0.45 50.3)
+   GROUP25
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -0.05 50.3)
+   GROUP26
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 0.35 50.3)
+   GROUP27
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 0.75 50.3)
+   GROUP28
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 1.25 50.3)
+   GROUP29
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 1.55 50.3)
+   GROUP30
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 1.95 50.3)
+   GROUP31
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 2.35 50.3)
+   GROUP32
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 2.75 50.3)
+   GROUP33
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 3.15 50.3)
+   GROUP34
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 3.55 50.3)
+   GROUP35
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 3.95 50.3)
+   GROUP36
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 4.35 50.3)
+   GROUP37
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 4.75 50.3)
+   GROUP38
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 5.15 50.3)
+   GROUP39
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 5.55 50.3)
+   GROUP40
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 5.95 50.3)
+   GROUP41
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 6.35 50.3)
+   GROUP42
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 6.75 50.3)
+   GROUP43
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 7.15 50.3)
+   GROUP44
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 7.55 50.3)
+   GROUP45
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 7.95 50.3)
+   GROUP46
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 8.35 50.3)
+   GROUP47
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -6.05 -0.66)
+   GROUP48
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -5.65 -0.66)
+   GROUP49
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -5.25 -0.66)
+   GROUP50
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -4.85 -0.66)
+   GROUP51
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -4.45 -0.66)
+   GROUP52
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -4.05 -0.66)
+   GROUP53
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -3.65 -0.66)
+   GROUP54
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -3.25 -0.66)
+   GROUP55
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -2.85 -0.66)
+   GROUP56
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -2.45 -0.66)
+   GROUP57
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -2.05 -0.66)
+   GROUP58
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -1.65 -0.66)
+   GROUP59
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -1.25 -0.66)
+   GROUP60
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -0.85 -0.66)
+   GROUP61
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -0.45 -0.66)
+   GROUP62
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 -0.05 -0.66)
+   GROUP63
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 0.35 -0.66)
+   GROUP64
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 0.75 -0.66)
+   GROUP65
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 1.25 -0.66)
+   GROUP66
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 1.55 -0.66)
+   GROUP67
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 1.95 -0.66)
+   GROUP68
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 2.35 -0.66)
+   GROUP69
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 2.75 -0.66)
+   GROUP70
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 3.15 -0.66)
+   GROUP71
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 3.55 -0.66)
+   GROUP72
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 3.95 -0.66)
+   GROUP73
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 4.35 -0.66)
+   GROUP74
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 4.75 -0.66)
+   GROUP75
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 5.15 -0.66)
+   GROUP76
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 5.55 -0.66)
+   GROUP77
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 5.95 -0.66)
+   GROUP78
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 6.35 -0.66)
+   GROUP79
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 6.75 -0.66)
+   GROUP80
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 7.15 -0.66)
+   GROUP81
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 7.55 -0.66)
+   GROUP82
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 7.95 -0.66)
+   GROUP83
+    new_via_first_c.qui, conductor
+      title: `<new_via_last_c.qui>'
+      outer permittivity: 1
+      number of panels: 318
+      number of extra evaluation points: 0
+      translation: (-6.25 8.35 -0.66)
+  Date: Sun Dec  1 10:30:23 2013
+  Host: linux123
+
+INPUT SUMMARY
+  Expansion order: 2
+  Number of partitioning levels: 7
+  Overall permittivity factor: 1
+  Total number of panels: 190266
+    Number of conductor panels: 190266
+    Number of dielectric interface panels: 0
+    Number of thin conductor on dielectric interface panels: 0
+  Number of conductors: 83
+Percentage of multiplies done by multipole: 97.2%
+
+ITERATION DATA
+Starting on column 1 (2%GROUP1)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+16 17 18 19 20 21 22 23 
+
+PARTIAL CAPACITANCE MATRIX, picofarads
+                     1          2          3          4          5          6          7          8          9         10         11         12         13         14         15         16         17         18         19         20         21         22         23         24         25         26         27         28         29         30         31         32         33         34         35         36         37         38         39         40         41         42         43         44         45         46         47         48         49         50         51         52         53         54         55         56         57         58         59         60         61         62         63         64         65         66         67         68         69         70         71         72         73         74         75         76         77         78         79         80         81         82         83 
+2%GROUP1   1       3710     -82.26     -402.9     -82.36     -398.1       -403     -81.42     -398.7      -82.3    -0.8822    -0.6272    -0.9116     -1.218     -1.687     -2.179     -2.811     -3.475     -4.239     -5.059     -6.267     -7.613     -9.793     -12.84     -19.15      -32.5     -46.95     -60.99     -60.47     -57.22     -65.95     -66.95     -66.25     -64.89     -61.55     -56.69     -49.09     -36.74     -21.92     -14.05     -10.14     -8.621     -6.667     -5.431     -4.657     -4.114     -6.099    -0.8442    -0.5615     -1.001     -1.139     -1.524     -2.017     -2.994     -3.555     -4.242     -5.002     -6.509     -7.517      -9.66     -12.76     -19.14     -32.47     -46.98     -60.99     -60.46     -57.31     -66.18     -67.13     -66.09     -64.76     -61.63     -56.88        -49        -37     -21.83     -14.28      -10.8     -7.816      -6.48     -5.347     -4.647     -4.373     -6.097
+2%GROUP2   2     -82.26                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2%GROUP3   3     -402.9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2%GROUP4   4     -82.36                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2%GROUP5   5     -398.1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2%GROUP6   6       -403                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2%GROUP7   7     -81.42                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2%GROUP8   8     -398.7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2%GROUP9   9      -82.3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP10 10    -0.8822                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP11 11    -0.6272                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP12 12    -0.9116                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP13 13     -1.218                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP14 14     -1.687                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP15 15     -2.179                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP16 16     -2.811                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP17 17     -3.475                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP18 18     -4.239                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP19 19     -5.059                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP20 20     -6.267                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP21 21     -7.613                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP22 22     -9.793                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP23 23     -12.84                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP24 24     -19.15                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP25 25      -32.5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP26 26     -46.95                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP27 27     -60.99                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP28 28     -60.47                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP29 29     -57.22                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP30 30     -65.95                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP31 31     -66.95                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP32 32     -66.25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP33 33     -64.89                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP34 34     -61.55                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP35 35     -56.69                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP36 36     -49.09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP37 37     -36.74                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP38 38     -21.92                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP39 39     -14.05                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP40 40     -10.14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP41 41     -8.621                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP42 42     -6.667                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP43 43     -5.431                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP44 44     -4.657                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP45 45     -4.114                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP46 46     -6.099                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP47 47    -0.8442                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP48 48    -0.5615                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP49 49     -1.001                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP50 50     -1.139                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP51 51     -1.524                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP52 52     -2.017                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP53 53     -2.994                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP54 54     -3.555                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP55 55     -4.242                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP56 56     -5.002                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP57 57     -6.509                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP58 58     -7.517                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP59 59      -9.66                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP60 60     -12.76                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP61 61     -19.14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP62 62     -32.47                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP63 63     -46.98                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP64 64     -60.99                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP65 65     -60.46                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP66 66     -57.31                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP67 67     -66.18                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP68 68     -67.13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP69 69     -66.09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP70 70     -64.76                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP71 71     -61.63                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP72 72     -56.88                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP73 73        -49                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP74 74        -37                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP75 75     -21.83                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP76 76     -14.28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP77 77      -10.8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP78 78     -7.816                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP79 79      -6.48                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP80 80     -5.347                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP81 81     -4.647                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP82 82     -4.373                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1%GROUP83 83     -6.097                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
