@@ -1,0 +1,15 @@
+第十二章核心思想   矩阵
+1.max,min,sum:这些函数以矩阵输入，按列执行并返回一个行向量
+2.axis ij：矩阵的下表和ij一致
+3.矩阵单元数组：花括号表示单元数组的下标，圆括号包括矩阵的下标
+4.imread：转化压缩图像数据   将jpeg格式的图像文件转化为用来存放各分量像素值的三维8位无符号整型矩阵。
+5.unit8：无符号八位，整型。取值范围0-255
+6.imshow：显示用矩阵定义的图像
+7.imwrite：用一个存储像素点的三维数组建立一个图像文件  .jpeg
+8.rgb2gray:三维像素值数组生成一个只有灰度值的矩阵[0~255]黑白照片。
+9.size(A,1):得到A的行数。   size(A,2):得到A的列数
+10.C=[A B]  C=[A;B]  矩阵的合并
+11.C=max（A,B）       [v,idx]=max(A)    idx（j）是A中j列最大值的下标。
+12.内嵌颜色的映射图：
+colormap('Jet')   
+其他颜色的映射图还包括：Hsv  Hot Cool Spring  Summer  Autumn    Winter  Gray  Bone  Copper  Pink

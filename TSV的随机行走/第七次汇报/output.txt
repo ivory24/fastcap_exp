@@ -1,0 +1,354 @@
+Running fastcap 2.0 (18Sep92)
+  Input: via_last.lst
+  Input surfaces:
+   GROUP1
+    nobottomc.qui, conductor
+      title: `<nobottomc.qui>'
+      outer permittivity: 1
+      number of panels: 7301
+      number of extra evaluation points: 0
+      translation: (-1.9635 -1.9635 0)
+   GROUP2
+    flatc.qui, conductor
+      title: `<flatc.qui>'
+      outer permittivity: 1
+      number of panels: 880
+      number of extra evaluation points: 0
+      translation: (-10 -10 -0.2)
+   GROUP3
+    e1.qui, conductor
+      title: `<e1.qui>'
+      outer permittivity: 1
+      number of panels: 414
+      number of extra evaluation points: 0
+      translation: (3.78 -0.5 0.56)
+   GROUP4
+    e1.qui, conductor
+      title: `<e1.qui>'
+      outer permittivity: 1
+      number of panels: 414
+      number of extra evaluation points: 0
+      translation: (3.64 -0.5 0.56)
+   GROUP5
+    e1.qui, conductor
+      title: `<e1.qui>'
+      outer permittivity: 1
+      number of panels: 414
+      number of extra evaluation points: 0
+      translation: (3.5 -0.5 0.56)
+   GROUP6
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.36 3.5 0.56)
+   GROUP7
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (0.105 3.5 0.56)
+   GROUP8
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-0.035 3.5 0.56)
+   GROUP9
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-0.175 3.5 0.56)
+   GROUP10
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-3.395 3.5 0.56)
+   GROUP11
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-3.535 3.5 0.56)
+   GROUP12
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-3.675 3.5 0.56)
+   GROUP13
+    d1.qui, conductor
+      title: `<d1.qui>'
+      outer permittivity: 1
+      number of panels: 540
+      number of extra evaluation points: 0
+      translation: (-3.6 3.64 0.84)
+   GROUP14
+    a1.qui, conductor
+      title: `<a1.qui>'
+      outer permittivity: 1
+      number of panels: 432
+      number of extra evaluation points: 0
+      translation: (-4.3 3.5 0.84)
+   GROUP15
+    b1.qui, conductor
+      title: `<b1.qui>'
+      outer permittivity: 1
+      number of panels: 198
+      number of extra evaluation points: 0
+      translation: (-4.2 3.36 0.84)
+   GROUP16
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 3.36 0.84)
+   GROUP17
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 3.22 0.84)
+   GROUP18
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 2.66 0.84)
+   GROUP19
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 2.52 0.84)
+   GROUP20
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 2.38 0.84)
+   GROUP21
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 0.105 0.84)
+   GROUP22
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 -0.035 0.84)
+   GROUP23
+    c1.qui, conductor
+      title: `<c1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.5 -0.175 0.84)
+   GROUP24
+    e1.qui, conductor
+      title: `<e1.qui>'
+      outer permittivity: 1
+      number of panels: 414
+      number of extra evaluation points: 0
+      translation: (3.78 -0.5 1.12)
+   GROUP25
+    e1.qui, conductor
+      title: `<e1.qui>'
+      outer permittivity: 1
+      number of panels: 414
+      number of extra evaluation points: 0
+      translation: (3.64 -0.5 1.12)
+   GROUP26
+    e1.qui, conductor
+      title: `<e1.qui>'
+      outer permittivity: 1
+      number of panels: 414
+      number of extra evaluation points: 0
+      translation: (3.5 -0.5 1.12)
+   GROUP27
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (3.36 3.5 1.12)
+   GROUP28
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (0.105 3.5 1.12)
+   GROUP29
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-0.035 3.5 1.12)
+   GROUP30
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-0.175 3.5 1.12)
+   GROUP31
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-3.395 3.5 1.12)
+   GROUP32
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-3.535 3.5 1.12)
+   GROUP33
+    f1.qui, conductor
+      title: `<f1.qui>'
+      outer permittivity: 1
+      number of panels: 216
+      number of extra evaluation points: 0
+      translation: (-3.675 3.5 1.12)
+  Date: Tue Oct 29 16:05:52 2013
+  Host: linux123
+
+INPUT SUMMARY
+  Expansion order: 2
+  Number of partitioning levels: 7
+  Overall permittivity factor: 1
+  Total number of panels: 16587
+    Number of conductor panels: 16587
+    Number of dielectric interface panels: 0
+    Number of thin conductor on dielectric interface panels: 0
+  Number of conductors: 33
+Percentage of multiplies done by multipole: 97.5%
+
+ITERATION DATA
+Starting on column 1 (1%GROUP1)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+16 
+Starting on column 2 (1%GROUP2)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+16 17 
+Starting on column 3 (1%GROUP3)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Starting on column 4 (1%GROUP4)
+1 2 3 4 5 6 7 8 9 10 11 12 13 
+Starting on column 5 (1%GROUP5)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Starting on column 6 (1%GROUP6)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 7 (1%GROUP7)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 8 (1%GROUP8)
+1 2 3 4 5 6 7 8 9 
+Starting on column 9 (1%GROUP9)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 10 (1%GROUP10)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 11 (1%GROUP11)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 12 (1%GROUP12)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 13 (1%GROUP13)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Starting on column 14 (1%GROUP14)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+
+Starting on column 15 (1%GROUP15)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 16 (1%GROUP16)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 17 (1%GROUP17)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 18 (1%GROUP18)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 19 (1%GROUP19)
+1 2 3 4 5 6 7 8 9 
+Starting on column 20 (1%GROUP20)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 21 (1%GROUP21)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 22 (1%GROUP22)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 23 (1%GROUP23)
+1 2 3 4 5 6 7 8 9 10 11 12 
+Starting on column 24 (1%GROUP24)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Starting on column 25 (1%GROUP25)
+1 2 3 4 5 6 7 8 9 10 11 12 13 
+Starting on column 26 (1%GROUP26)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Starting on column 27 (1%GROUP27)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 28 (1%GROUP28)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 29 (1%GROUP29)
+1 2 3 4 5 6 7 8 9 
+Starting on column 30 (1%GROUP30)
+1 2 3 4 5 6 7 8 9 10 11 
+Starting on column 31 (1%GROUP31)
+1 2 3 4 5 6 7 8 9 10 
+Starting on column 32 (1%GROUP32)
+1 2 3 4 5 6 7 8 9 
+Starting on column 33 (1%GROUP33)
+1 2 3 4 5 6 7 8 9 10 
+
+CAPACITANCE MATRIX, attofarads
+                     1          2          3          4          5          6          7          8          9         10         11         12         13         14         15         16         17         18         19         20         21         22         23         24         25         26         27         28         29         30         31         32         33 
+1%GROUP1   1   7.57e+08 -6.748e+08  -1.06e+06 -8.457e+05 -4.339e+06 -1.107e+05 -3.884e+05 -2.305e+05 -3.625e+05 -1.448e+05 -8.173e+04 -1.061e+05 -6.097e+06 -1.538e+07 -6.968e+05 -4.107e+04 -1.026e+05  -1.74e+05 -1.119e+05 -2.188e+05 -3.741e+05 -2.553e+05 -4.694e+05 -3.984e+06 -2.928e+06  -9.45e+06  -4.11e+05 -1.106e+06  -7.29e+05 -1.093e+06 -5.071e+05 -2.925e+05 -4.198e+05
+1%GROUP2   2 -6.748e+08   1.74e+09 -3.136e+07 -1.532e+07 -2.927e+07 -4.305e+06 -3.867e+06 -2.529e+06 -3.885e+06 -4.153e+06 -2.745e+06 -4.465e+06 -3.906e+07 -6.394e+07 -6.991e+06 -4.145e+05 -1.244e+06 -1.477e+06 -1.076e+06 -1.523e+06 -1.601e+06 -1.256e+06  -2.03e+06 -1.729e+07 -6.726e+06 -1.277e+07 -2.461e+06 -1.955e+06 -1.265e+06 -1.938e+06 -2.538e+06 -1.702e+06 -2.904e+06
+1%GROUP3   3  -1.06e+06 -3.136e+07  1.854e+08 -1.079e+08 -7.352e+06  -2.76e+05      98.39      103.5     -639.2     -240.1     -214.9        162 -4.272e+04 -4.111e+06     -771.4  -1.73e+06 -2.857e+06 -2.957e+06 -1.987e+06 -3.096e+06 -3.077e+06 -1.987e+06  -2.93e+06 -7.432e+06 -2.727e+06 -1.972e+06 -9.022e+04      -5471      109.9      -2247     -866.6     -687.2      -1035
+1%GROUP4   4 -8.457e+05 -1.532e+07 -1.079e+08  2.544e+08 -1.071e+08 -5.821e+05     -874.3      401.7       -275     -106.2     -111.8      119.5 -2.617e+04 -1.988e+06     -326.7 -1.288e+06 -1.819e+06 -1.858e+06 -1.228e+06  -1.91e+06 -1.913e+06 -1.233e+06 -1.874e+06 -2.668e+06 -1.999e+06 -2.563e+06 -8.036e+04      -1960     -480.2      -1179     -353.6     -297.8     -456.8
+1%GROUP5   5 -4.339e+06 -2.927e+07 -7.352e+06 -1.071e+08  1.879e+08 -7.737e+06      -7815       3753     -538.1     -386.1     -331.7        152 -9.755e+04 -3.736e+06      -1018 -1.096e+06  -1.98e+06 -2.103e+06 -1.463e+06 -2.188e+06 -2.198e+06 -1.465e+06 -2.096e+06 -1.969e+06 -2.653e+06 -8.548e+06 -2.142e+05      -5306      -2412      -3969      -1022     -735.4      -1206
+1%GROUP6   6 -1.107e+05 -4.305e+06  -2.76e+05 -5.821e+05 -7.737e+06  1.798e+07      -2168      235.4     -422.7      -62.6     -59.35     -94.23 -7.754e+04  -3.86e+06     -300.9 -1.621e+04 -1.121e+05 -1.749e+04      -7163      -5327     -272.4      186.4     -298.2 -1.001e+05 -9.262e+04 -2.142e+05 -4.052e+05      -2954      -1468      -1879     -293.6       -170     -307.1
+1%GROUP7   7 -3.884e+05 -3.867e+06      98.39     -874.3      -7815      -2168  1.917e+07 -8.315e+06 -6.526e+05     -611.9     -247.3        214  -3.09e+06 -2.427e+06     -727.2      -83.2     -379.4     -949.3        102     -932.8      -5059       4063      249.9      -1120      -1622      -6686      -2291 -1.788e+05 -9.088e+04 -8.104e+04      -1557     -926.8      -1394
+1%GROUP8   8 -2.305e+05 -2.529e+06      103.5      401.7       3753      235.4 -8.315e+06   2.33e+07 -8.234e+06     -553.1     -201.4     -314.8 -2.048e+06 -1.634e+06     -806.4      -78.9     -49.05      518.4       -877      230.6       4200      -3301     -235.8      -3736      -1594      -1862      -1266 -8.988e+04 -7.368e+04 -8.616e+04     -828.1       -352       -222
+1%GROUP9   9 -3.625e+05 -3.885e+06     -639.2       -275     -538.1     -422.7 -6.526e+05 -8.234e+06  1.921e+07      -1372     -528.6     -370.2 -3.012e+06  -2.66e+06      -1364     -104.3     -54.89      165.3     -390.5     -188.1      629.5     -656.5     -111.2      -3672      -1996      -4015      -1560 -8.447e+04 -8.449e+04 -1.552e+05      -2369      -1118      -1250
+1%GROUP10 10 -1.448e+05 -4.153e+06     -240.1     -106.2     -386.1      -62.6     -611.9     -553.1      -1372  1.926e+07 -8.245e+06 -6.134e+05 -2.831e+06  -2.52e+06  -3.86e+05     -30.36     -112.7     -75.74     -64.92     -74.03     -14.39     -2.226      9.542      -1040     -541.1      -1149     -242.9      -1178      -1289      -2443 -1.568e+05 -7.998e+04 -7.487e+04
+1%GROUP11 11 -8.173e+04 -2.745e+06     -214.9     -111.8     -331.7     -59.35     -247.3     -201.4     -528.6 -8.245e+06  2.333e+07 -8.257e+06 -1.727e+06 -1.345e+06 -6.346e+05     -23.36     -73.28     -56.86      -39.5     -45.82     -16.59       3.64     -7.308     -677.1     -354.6     -754.1     -159.6       -606       -676      -1115 -7.828e+04 -6.012e+04 -9.321e+04
+1%GROUP12 12 -1.061e+05 -4.465e+06        162      119.5        152     -94.23        214     -314.8     -370.2 -6.134e+05 -8.257e+06  1.908e+07 -1.125e+06 -2.852e+06 -1.204e+06     -21.93     -74.89      -46.3      -34.3     -12.02     -4.566      26.86     -13.77       -625     -271.5     -511.5     -242.1     -433.3      -1182      -1260 -7.827e+04 -9.816e+04 -2.295e+05
+1%GROUP13 13 -6.097e+06 -3.906e+07 -4.272e+04 -2.617e+04 -9.755e+04 -7.754e+04  -3.09e+06 -2.048e+06 -3.012e+06 -2.831e+06 -1.727e+06 -1.125e+06  2.394e+08  -1.62e+08 -4.295e+05      -6774 -1.331e+04      -9777      -9013      -9766      -2811       -288      -1706 -1.612e+05 -1.054e+05 -2.597e+05 -1.443e+05 -3.364e+06 -2.218e+06 -3.325e+06  -3.03e+06  -1.84e+06 -1.263e+06
+1%GROUP14 14 -1.538e+07 -6.394e+07 -4.111e+06 -1.988e+06 -3.736e+06  -3.86e+06 -2.427e+06 -1.634e+06  -2.66e+06  -2.52e+06 -1.345e+06 -2.852e+06  -1.62e+08  3.422e+08 -2.207e+07  -1.51e+07 -1.648e+06   -3.4e+05 -1.571e+05 -1.391e+05      -4727      -3537      -8291 -4.871e+06 -2.439e+06 -4.568e+06 -4.188e+06 -2.763e+06  -1.87e+06 -3.009e+06 -2.816e+06 -1.522e+06 -3.101e+06
+1%GROUP15 15 -6.968e+05 -6.991e+06     -771.4     -326.7      -1018     -300.9     -727.2     -806.4      -1364  -3.86e+05 -6.346e+05 -1.204e+06 -4.295e+05 -2.207e+07  3.528e+07      -97.9     -253.9     -220.4     -156.7       -188       -209      33.82     -153.3      -4119      -2155      -4231     -964.5      -3486      -3068      -5267 -4.756e+05 -7.021e+05 -1.307e+06
+1%GROUP16 16 -4.107e+04 -4.145e+05  -1.73e+06 -1.288e+06 -1.096e+06 -1.621e+04      -83.2      -78.9     -104.3     -30.36     -23.36     -21.93      -6774  -1.51e+07      -97.9  3.639e+07 -1.236e+07 -4.599e+04 -2.355e+04  -1.39e+04     -18.88     -166.6     -170.1 -1.746e+06 -1.296e+06  -1.11e+06 -2.086e+04     -940.6      107.2     -254.9     -79.64     -45.45     -86.32
+1%GROUP17 17 -1.026e+05 -1.244e+06 -2.857e+06 -1.819e+06  -1.98e+06 -1.121e+05     -379.4     -49.05     -54.89     -112.7     -73.28     -74.89 -1.331e+04 -1.648e+06     -253.9 -1.236e+07  2.974e+07 -5.502e+05  -4.57e+04 -4.499e+04     -416.1     -49.28     -461.7 -2.912e+06 -1.841e+06 -2.015e+06 -1.258e+05     -531.9     -771.1     -679.5     -218.4     -121.8     -220.8
+1%GROUP18 18  -1.74e+05 -1.477e+06 -2.957e+06 -1.858e+06 -2.103e+06 -1.749e+04     -949.3      518.4      165.3     -75.74     -56.86      -46.3      -9777   -3.4e+05     -220.4 -4.599e+04 -5.502e+05  2.964e+07 -1.245e+07 -4.991e+05   1.15e+04       4555       1025 -3.036e+06  -1.89e+06 -2.146e+06 -3.183e+04     -889.4        195     -103.9     -128.9     -72.56     -158.5
+1%GROUP19 19 -1.119e+05 -1.076e+06 -1.987e+06 -1.228e+06 -1.463e+06      -7163        102       -877     -390.5     -64.92      -39.5      -34.3      -9013 -1.571e+05     -156.7 -2.355e+04  -4.57e+04 -1.245e+07  3.596e+07 -1.253e+07  -1.85e+04       7449     -798.4 -2.046e+06 -1.256e+06 -1.514e+06      -6994     -75.58      -1723      -1116     -208.8     -117.3     -182.6
+1%GROUP20 20 -2.188e+05 -1.523e+06 -3.096e+06  -1.91e+06 -2.188e+06      -5327     -932.8      230.6     -188.1     -74.03     -45.82     -12.02      -9766 -1.391e+05       -188  -1.39e+04 -4.499e+04 -4.991e+05 -1.253e+07  2.974e+07      -6442       2310      -1274 -3.207e+06 -1.966e+06 -2.274e+06 -1.311e+04     -885.5     -610.4     -765.8     -203.9     -120.8     -197.5
+1%GROUP21 21 -3.741e+05 -1.601e+06 -3.077e+06 -1.913e+06 -2.198e+06     -272.4      -5059       4200      629.5     -14.39     -16.59     -4.566      -2811      -4727       -209     -18.88     -416.1   1.15e+04  -1.85e+04      -6442  2.967e+07 -1.251e+07 -4.879e+05 -3.174e+06 -1.964e+06 -2.263e+06     -489.4      -4471       3463      478.4     -111.4     -112.6     -182.5
+1%GROUP22 22 -2.553e+05 -1.256e+06 -1.987e+06 -1.233e+06 -1.465e+06      186.4       4063      -3301     -656.5     -2.226       3.64      26.86       -288      -3537      33.82     -166.6     -49.28       4555       7449       2310 -1.251e+07  3.603e+07 -1.253e+07 -2.029e+06 -1.248e+06 -1.496e+06     -778.8       3177      -2861     -726.5     -65.31     -31.35    -0.6678
+1%GROUP23 23 -4.694e+05  -2.03e+06  -2.93e+06 -1.874e+06 -2.096e+06     -298.2      249.9     -235.8     -111.2      9.542     -7.308     -13.77      -1706      -8291     -153.3     -170.1     -461.7       1025     -798.4      -1274 -4.879e+05 -1.253e+07  2.965e+07 -3.021e+06  -1.92e+06 -2.171e+06      -1039     -143.4     -285.3     -284.8     -110.9       -109     -126.3
+1%GROUP24 24 -3.984e+06 -1.729e+07 -7.432e+06 -2.668e+06 -1.969e+06 -1.001e+05      -1120      -3736      -3672      -1040     -677.1       -625 -1.612e+05 -4.871e+06      -4119 -1.746e+06 -2.912e+06 -3.036e+06 -2.046e+06 -3.207e+06 -3.174e+06 -2.029e+06 -3.021e+06   1.82e+08 -1.096e+08 -1.015e+07 -5.216e+05 -2.087e+04      -7975 -1.305e+04      -4176      -2667      -3991
+1%GROUP25 25 -2.928e+06 -6.726e+06 -2.727e+06 -1.999e+06 -2.653e+06 -9.262e+04      -1622      -1594      -1996     -541.1     -354.6     -271.5 -1.054e+05 -2.439e+06      -2155 -1.296e+06 -1.841e+06  -1.89e+06 -1.256e+06 -1.966e+06 -1.964e+06 -1.248e+06  -1.92e+06 -1.096e+08  2.533e+08  -1.09e+08 -7.461e+05 -1.109e+04      -5133      -7483      -2187      -1403      -2107
+1%GROUP26 26  -9.45e+06 -1.277e+07 -1.972e+06 -2.563e+06 -8.548e+06 -2.142e+05      -6686      -1862      -4015      -1149     -754.1     -511.5 -2.597e+05 -4.568e+06      -4231  -1.11e+06 -2.015e+06 -2.146e+06 -1.514e+06 -2.274e+06 -2.263e+06 -1.496e+06 -2.171e+06 -1.015e+07  -1.09e+08  1.841e+08  -8.03e+06 -2.626e+04      -9600 -1.569e+04      -4230      -2685      -4105
+1%GROUP27 27  -4.11e+05 -2.461e+06 -9.022e+04 -8.036e+04 -2.142e+05 -4.052e+05      -2291      -1266      -1560     -242.9     -159.6     -242.1 -1.443e+05 -4.188e+06     -964.5 -2.086e+04 -1.258e+05 -3.183e+04      -6994 -1.311e+04     -489.4     -778.8      -1039 -5.216e+05 -7.461e+05  -8.03e+06  1.782e+07      -8617      -4237      -5717      -1057     -631.2     -981.4
+1%GROUP28 28 -1.106e+06 -1.955e+06      -5471      -1960      -5306      -2954 -1.788e+05 -8.988e+04 -8.447e+04      -1178       -606     -433.3 -3.364e+06 -2.763e+06      -3486     -940.6     -531.9     -889.4     -75.58     -885.5      -4471       3177     -143.4 -2.087e+04 -1.109e+04 -2.626e+04      -8617  1.903e+07 -8.394e+06 -7.549e+05      -5236      -2945      -3838
+1%GROUP29 29  -7.29e+05 -1.265e+06      109.9     -480.2      -2412      -1468 -9.088e+04 -7.368e+04 -8.449e+04      -1289       -676      -1182 -2.218e+06  -1.87e+06      -3068      107.2     -771.1        195      -1723     -610.4       3463      -2861     -285.3      -7975      -5133      -9600      -4237 -8.394e+06  2.325e+07 -8.311e+06      -4235      -2273      -3447
+1%GROUP30 30 -1.093e+06 -1.938e+06      -2247      -1179      -3969      -1879 -8.104e+04 -8.616e+04 -1.552e+05      -2443      -1115      -1260 -3.325e+06 -3.009e+06      -5267     -254.9     -679.5     -103.9      -1116     -765.8      478.4     -726.5     -284.8 -1.305e+04      -7483 -1.569e+04      -5717 -7.549e+05 -8.311e+06  1.906e+07      -8052      -4117      -5525
+1%GROUP31 31 -5.071e+05 -2.538e+06     -866.6     -353.6      -1022     -293.6      -1557     -828.1      -2369 -1.568e+05 -7.828e+04 -7.827e+04  -3.03e+06 -2.816e+06 -4.756e+05     -79.64     -218.4     -128.9     -208.8     -203.9     -111.4     -65.31     -110.9      -4176      -2187      -4230      -1057      -5236      -4235      -8052  1.911e+07 -8.354e+06 -7.603e+05
+1%GROUP32 32 -2.925e+05 -1.702e+06     -687.2     -297.8     -735.4       -170     -926.8       -352      -1118 -7.998e+04 -6.012e+04 -9.816e+04  -1.84e+06 -1.522e+06 -7.021e+05     -45.45     -121.8     -72.56     -117.3     -120.8     -112.6     -31.35       -109      -2667      -1403      -2685     -631.2      -2945      -2273      -4117 -8.354e+06  2.324e+07 -8.372e+06
+1%GROUP33 33 -4.198e+05 -2.904e+06      -1035     -456.8      -1206     -307.1      -1394       -222      -1250 -7.487e+04 -9.321e+04 -2.295e+05 -1.263e+06 -3.101e+06 -1.307e+06     -86.32     -220.8     -158.5     -182.6     -197.5     -182.5    -0.6678     -126.3      -3991      -2107      -4105     -981.4      -3838      -3447      -5525 -7.603e+05 -8.372e+06  1.891e+07

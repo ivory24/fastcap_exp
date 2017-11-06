@@ -1,0 +1,34 @@
+第十一章核心思想     文本文件处理
+1.fopen--fclose: 打开或者关闭一个文件
+<1>fid=fopen('dsll.dat')     flose('dsll.dat')    需要关闭所有的文件   flose('all')
+<2>fopen函数会返回一个文件id，唯一关联文件和用于其他文件处理命令的数字。
+<3>打开的文件可以是‘dsll.dat’ 或是    'dsll.txt'
+<4>如果文件不在脚本目录下，需要转接到目录打开  
+eg：fopen([pwd'\dasd\dad\da.dat']);      pwd:内置函数返回用于指定当前工作目录的字符串
+<5>创建有指定名称的文件，并且使它能够写入，返回文件的id
+2.feof：如果达到一个文件的尾处标记，就返回1 
+3.fgetl：把文本文件下一个未读行作为字符串返回   fgetl(fid)
+4.fprintf：用于把数据作为文本写入文件
+5.srt2double，str2num：用于把字符串转换为双精度的函数
+z=str2num('10 20 30 40')     等价于  z=[10 20 30 40]
+在处理需要复杂转化的情况下不同：理由是什么？课本217页
+6.fwrite：把二进制的数据写入文件
+fwrite(field id, Matrix, precision)    field id:必须命名一个开放的.bin文件
+matrix=fread(field id, size, precision)  field id:必须命名一个开放的.bin文件
+第二个参数表示写入对象的大小
+precision允许的精度:    
+int          整型8位
+unit8      无符号整型8位
+single     浮点型32位
+double   浮点型64位
+7.fread: 从文件中读取二进制的数据
+8.readme:一个描述数据格式的文本文件，在包含数据文件的目录中含有一个适当的
+readme更方便大家理解。
+9.
+M字节  10^6     一分钟的map3音乐，一本500页的小说
+G字节   10^9     人类基因组的数目，一个20分钟的DVD
+T字节    10^12   一个典型的高校图书馆。
+P字节    10^15    互联网上所有的文本量。50万树变成的印刷品
+10.[x,y]=ginput()    点击窗口，返回坐标
+[x,y]=ginput(n)    返回x.y的n列向量   只要你不按回车，或者没有点够n次，
+你就可以无止尽的点，直到n的点，它返回n个点对应的x.y

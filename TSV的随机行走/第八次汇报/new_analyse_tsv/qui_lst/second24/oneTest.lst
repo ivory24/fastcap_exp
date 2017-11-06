@@ -1,0 +1,8 @@
+#poly
+C secondtsv24.qui 1.0 -2.5 -2.5 0 +
+C 24flat1.qui 1.0 2.5 -10 0 + 
+C 24flat1.qui 1.0  -10 -10 0 +  
+C 24flat2.qui 1.0 -2.5 -10 0 + 
+C 24flat2.qui 1.0 -2.5 2.5 0 +
+C nbf5.qui 1.0 -0.035 2 0.56  +
+C f5flat.qui 1.0 -0.035 2.5 0.56

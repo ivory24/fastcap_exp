@@ -1,0 +1,29 @@
+* bus rectangle
+C ladder_wire3.0_01.qui 2.55 1004.5 -95.5 200.0
+C ladder_wire3.0_01.qui 2.55 1004.5 104.5 200.0
+C ladder_wire3.0_01y.qui 2.55 1484 -475 0.0
+C ladder_wire3.0_01y.qui 2.55 1484 -475 400.0
+D ./rectfinal/flat_01.qui 5.3 2.55 1004.5 -45.5 290.0 1000 -100 300 
+D ./rectfinal/flat_03.qui 5.3 2.55 -991.0 -2470.5 290.0 1000 -100 300
+D ./rectfinal/flat_03.qui 5.3 2.55 2013.5 -2470.5 290.0 1000 -100 300
+D ./rectfinal/flat_02.qui 5.3 2.55 1004.5 -2470.5 290.0 1000 -100 300
+D ./rectfinal/flat_02.qui 5.3 2.55 1004.5 154.5 290.0 1000 -100 300
+* 5000 x 5000   as same as the ladder wire 
+D ./rectfinal/flat_04.qui 4.2 5.3 -991.0 -2470.5 315.0 1000 -100 320
+D ./rectfinal/flat_04.qui 2.55 4.2 -991.0 -2470.5 330.0 1000 -100 335
+*flat connecting with the top surface of the top ladder_wire
+D ./rectfinal/flat_06.qui 5.3 2.55 -991 -2470.5 490.0 1000 -100 500
+D ./rectfinal/flat_06.qui 5.3 2.55 1534 -2470.5 490.0 1000 -100 500
+D ./rectfinal/flat_05.qui 5.3 2.55 1484 -2470.5 490.0 1000 -100 500
+D ./rectfinal/flat_05.qui 5.3 2.55 1484 534 490.0 1000 -100 500
+*top flat  the top jiezhi is 2.55
+D ./rectfinal/flat_04.qui 4.2 5.3 -991.0 -2470.5 515.0 1000 -100 520
+D ./rectfinal/flat_04.qui 2.55 4.2 -991.0 -2470.5 530.0 1000 -100 535
+*the bottom ladder_wire
+D ./rectfinal/flat_06.qui 5.3 2.55 -991 -2470.5 90.0 1000 -100 100
+D ./rectfinal/flat_06.qui 5.3 2.55 1534 -2470.5 90.0 1000 -100 100
+D ./rectfinal/flat_05.qui 5.3 2.55 1484 -2470.5 90.0 1000 -100 100
+D ./rectfinal/flat_05.qui 5.3 2.55 1484 534 90.0 1000 -100 100
+*two flats above the bottom ladder_wire
+D ./rectfinal/flat_04.qui 4.2 5.3 -991.0 -2470.5 115.0 1000 -100 120
+D ./rectfinal/flat_04.qui 2.55 4.2 -991.0 -2470.5 130.0 1000 -100 135
